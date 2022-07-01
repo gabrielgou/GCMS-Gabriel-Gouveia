@@ -2,5 +2,6 @@
 
 Colaboradores
 
-*João Gabriel Gouveia (@gabrielgou)
-*Ramide Dantas (@ramidedantas)
+*João Gabriel Gouveia(@gabrielgou)
+
+*Ramide Dantas(@ramidedantas)
