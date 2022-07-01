@@ -5,7 +5,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("Pratica 3");
-		System.out.println("Novo Push");
+		System.out.println("Commit local 1");
+		
 	}
 
 }
