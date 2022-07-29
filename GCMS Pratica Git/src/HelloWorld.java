@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println("Commit local "+" 2");
 		System.out.println("teste branch main");
 		System.out.println("Teste 2 branch main");
+		System.out.println("teste branch hotfix");
+		System.out.println("Teste 2 branch hotfix");
 	}
 
 }
